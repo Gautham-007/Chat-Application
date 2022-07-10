@@ -1,8 +1,10 @@
  import React from 'react';
 
- const Join = () => {
+ function Join() {
     return (
-      <h1>Join</h1>
+      <div>
+        <h1>Join</h1>
+      </div>
     );
  }
 

@@ -1,8 +1,10 @@
 import React from 'react';
 
-const Chat =  () => {
+function Chat() {
     return (
-    <h1>Chat</h1>
+        <div>
+            <h1>Chat</h1>
+        </div>
     );
 }
 
